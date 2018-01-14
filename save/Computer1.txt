@@ -1,0 +1,13 @@
+Cjack.png
+Ceight.png
+Dten.png
+Hjack.png
+Cqueen.png
+Cace.png
+Cseven.png
+/
+Points 1
+Needs Points 3
+current Points 1
+X1 10
+Y1 30

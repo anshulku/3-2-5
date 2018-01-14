@@ -1,0 +1,15 @@
+Seight.png
+Hten.png
+Hqueen.png
+Hnine.png
+Dnine.png
+Snine.png
+Hace.png
+/
+Points 1
+Needs Points 2
+current Points 1
+X1 225
+Y1 460
+X2 595
+Y2 555
